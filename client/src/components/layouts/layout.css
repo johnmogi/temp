@@ -1,0 +1,19 @@
+main {
+  min-height: 75vh;
+}
+
+footer {
+  text-align: center;
+}
+
+body {
+  background-color: #c5c4c4;
+}
+
+.layout {
+  margin-top: 5em;
+}
+
+.space1 {
+  margin-right: 5px;
+}
